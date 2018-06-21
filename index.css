@@ -1,1 +1,4 @@
-
+* {
+  cursor: url('pop.png'), crosshair;
+    background-image: url('Heart.png');
+}
