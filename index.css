@@ -1,4 +1,4 @@
 * {
   cursor: url('Screen Shot 2018-06-21 at 7.00.54 PM.png'), crosshair;
-    background-image: url('heart.png');
+    background-image: url('heart.png') center fixed;
 }
